@@ -1,0 +1,407 @@
+Railway: Volk's; Timetable: Volks;  Start time: 10:00
+
+10:00 V001 Created at Shed
+10:00 V002 Created at Sidings
+10:00 V002 Departs from Sidings
+10:01 V002 Arrives at Halfway
+10:01 V002 Changes direction at Halfway
+10:02 V002 Departs from Halfway
+10:04 V001 Departs from Shed
+10:04 V001 Passes Halfway
+10:07 V002 Arrives at Marina
+10:08 V001 Arrives at Aquarium
+10:14 V001 Changes direction at Aquarium
+10:14 V001 At Aquarium forms new service V001
+10:14 V001 New service at Aquarium from V001
+10:14 V002 Changes direction at Marina
+10:14 V002 At Marina forms new service V002
+10:14 V002 New service at Marina from V002
+10:15 V001 Departs from Aquarium
+10:15 V002 Departs from Marina
+10:18 V002 Arrives at Halfway
+10:19 V001 Arrives at Halfway
+10:20 V002 Departs from Halfway
+10:23 V001 Departs from Halfway
+10:24 V002 Arrives at Aquarium
+10:24 V002 Changes direction at Aquarium
+10:27 V001 Arrives at Marina
+10:29 V001 Changes direction at Marina
+10:29 V001 At Marina forms new service V001
+10:29 V001 New service at Marina from V001
+10:29 V002 At Aquarium forms new service V002
+10:29 V002 New service at Aquarium from V002
+10:30 V001 Departs from Marina
+10:30 V002 Departs from Aquarium
+10:33 V002 Arrives at Halfway
+10:34 V001 Arrives at Halfway
+10:35 V002 Departs from Halfway
+10:37 V001 Departs from Halfway
+10:39 V002 Arrives at Marina
+10:41 V001 Arrives at Aquarium
+10:44 V001 Changes direction at Aquarium
+10:44 V001 At Aquarium forms new service V001
+10:44 V001 New service at Aquarium from V001
+10:44 V002 Changes direction at Marina
+10:45 V001 Departs from Aquarium
+10:45 V002 At Marina forms new service V002
+10:45 V002 New service at Marina from V002
+10:45 V002 Departs from Marina
+10:49 V001 Arrives at Halfway
+10:49 V002 Arrives at Halfway
+10:52 V002 Departs from Halfway
+10:53 V001 Departs from Halfway
+10:56 V002 Arrives at Aquarium
+10:57 V001 Arrives at Marina
+10:59 V001 Changes direction at Marina
+10:59 V001 At Marina forms new service V001
+10:59 V001 New service at Marina from V001
+10:59 V002 Changes direction at Aquarium
+10:59 V002 At Aquarium forms new service V002
+10:59 V002 New service at Aquarium from V002
+11:00 V001 Departs from Marina
+11:00 V002 Departs from Aquarium
+11:04 V001 Arrives at Halfway
+11:04 V002 Arrives at Halfway
+11:07 V001 Departs from Halfway
+11:08 V002 Departs from Halfway
+11:11 V001 Arrives at Aquarium
+11:12 V002 Arrives at Marina
+11:14 V001 Repeat shuttle service at Aquarium from  V001
+11:14 V001 Changes direction at Aquarium
+11:14 V001 At Aquarium forms new service  V001
+11:14 V002 Repeat shuttle service at Marina from  V002
+11:14 V002 Changes direction at Marina
+11:14 V002 At Marina forms new service  V002
+11:15 V001 Departs from Aquarium
+11:15 V002 Departs from Marina
+11:18 V002 Arrives at Halfway
+11:19 V001 Arrives at Halfway
+11:20 V002 Departs from Halfway
+11:23 V001 Departs from Halfway
+11:24 V002 Arrives at Aquarium
+11:24 V002 Changes direction at Aquarium
+11:27 V001 Arrives at Marina
+11:29 V001 Changes direction at Marina
+11:29 V001 At Marina forms new service V001
+11:29 V001 New service at Marina from V001
+11:29 V002 At Aquarium forms new service V002
+11:29 V002 New service at Aquarium from V002
+11:30 V001 Departs from Marina
+11:30 V002 Departs from Aquarium
+11:33 V002 Arrives at Halfway
+11:34 V001 Arrives at Halfway
+11:35 V002 Departs from Halfway
+11:37 V001 Departs from Halfway
+11:39 V002 Arrives at Marina
+11:41 V001 Arrives at Aquarium
+11:44 V001 Changes direction at Aquarium
+11:44 V001 At Aquarium forms new service V001
+11:44 V001 New service at Aquarium from V001
+11:44 V002 Changes direction at Marina
+11:45 V001 Departs from Aquarium
+11:45 V002 At Marina forms new service V002
+11:45 V002 New service at Marina from V002
+11:45 V002 Departs from Marina
+11:49 V001 Arrives at Halfway
+11:49 V002 Arrives at Halfway
+11:52 V002 Departs from Halfway
+11:53 V001 Departs from Halfway
+11:56 V002 Arrives at Aquarium
+11:57 V001 Arrives at Marina
+11:59 V001 Changes direction at Marina
+11:59 V001 At Marina forms new service V001
+11:59 V001 New service at Marina from V001
+11:59 V002 Changes direction at Aquarium
+11:59 V002 At Aquarium forms new service V002
+11:59 V002 New service at Aquarium from V002
+12:00 V001 Departs from Marina
+12:00 V002 Departs from Aquarium
+12:04 V001 Arrives at Halfway
+12:04 V002 Arrives at Halfway
+12:07 V001 Departs from Halfway
+12:08 V002 Departs from Halfway
+12:11 V001 Arrives at Aquarium
+12:12 V002 Arrives at Marina
+12:14 V001 Repeat shuttle service at Aquarium from  V001
+12:14 V001 Changes direction at Aquarium
+12:14 V001 At Aquarium forms new service  V001
+12:14 V002 Repeat shuttle service at Marina from  V002
+12:14 V002 Changes direction at Marina
+12:14 V002 At Marina forms new service  V002
+12:15 V001 Departs from Aquarium
+12:15 V002 Departs from Marina
+12:18 V002 Arrives at Halfway
+12:19 V001 Arrives at Halfway
+12:20 V002 Departs from Halfway
+12:23 V001 Departs from Halfway
+12:24 V002 Arrives at Aquarium
+12:24 V002 Changes direction at Aquarium
+12:27 V001 Arrives at Marina
+12:29 V001 Changes direction at Marina
+12:29 V001 At Marina forms new service V001
+12:29 V001 New service at Marina from V001
+12:29 V002 At Aquarium forms new service V002
+12:29 V002 New service at Aquarium from V002
+12:30 V001 Departs from Marina
+12:30 V002 Departs from Aquarium
+12:33 V002 Arrives at Halfway
+12:34 V001 Arrives at Halfway
+12:35 V002 Departs from Halfway
+12:37 V001 Departs from Halfway
+12:39 V002 Arrives at Marina
+12:41 V001 Arrives at Aquarium
+12:44 V001 Changes direction at Aquarium
+12:44 V001 At Aquarium forms new service V001
+12:44 V001 New service at Aquarium from V001
+12:44 V002 Changes direction at Marina
+12:45 V001 Departs from Aquarium
+12:45 V002 At Marina forms new service V002
+12:45 V002 New service at Marina from V002
+12:45 V002 Departs from Marina
+12:49 V001 Arrives at Halfway
+12:49 V002 Arrives at Halfway
+12:52 V002 Departs from Halfway
+12:53 V001 Departs from Halfway
+12:56 V002 Arrives at Aquarium
+12:57 V001 Arrives at Marina
+12:59 V001 Changes direction at Marina
+12:59 V001 At Marina forms new service V001
+12:59 V001 New service at Marina from V001
+12:59 V002 Changes direction at Aquarium
+12:59 V002 At Aquarium forms new service V002
+12:59 V002 New service at Aquarium from V002
+13:00 V001 Departs from Marina
+13:00 V002 Departs from Aquarium
+13:04 V001 Arrives at Halfway
+13:04 V002 Arrives at Halfway
+13:07 V001 Departs from Halfway
+13:08 V002 Departs from Halfway
+13:11 V001 Arrives at Aquarium
+13:12 V002 Arrives at Marina
+13:14 V001 Repeat shuttle service at Aquarium from  V001
+13:14 V001 Changes direction at Aquarium
+13:14 V001 At Aquarium forms new service  V001
+13:14 V002 Repeat shuttle service at Marina from  V002
+13:14 V002 Changes direction at Marina
+13:14 V002 At Marina forms new service  V002
+13:15 V001 Departs from Aquarium
+13:15 V002 Departs from Marina
+13:18 V002 Arrives at Halfway
+13:19 V001 Arrives at Halfway
+13:20 V002 Departs from Halfway
+13:23 V001 Departs from Halfway
+13:24 V002 Arrives at Aquarium
+13:24 V002 Changes direction at Aquarium
+13:27 V001 Arrives at Marina
+13:29 V001 Changes direction at Marina
+13:29 V001 At Marina forms new service V001
+13:29 V001 New service at Marina from V001
+13:29 V002 At Aquarium forms new service V002
+13:29 V002 New service at Aquarium from V002
+13:30 V001 Departs from Marina
+13:30 V002 Departs from Aquarium
+13:33 V002 Arrives at Halfway
+13:34 V001 Arrives at Halfway
+13:35 V002 Departs from Halfway
+13:37 V001 Departs from Halfway
+13:39 V002 Arrives at Marina
+13:41 V001 Arrives at Aquarium
+13:44 V001 Changes direction at Aquarium
+13:44 V001 At Aquarium forms new service V001
+13:44 V001 New service at Aquarium from V001
+13:44 V002 Changes direction at Marina
+13:45 V001 Departs from Aquarium
+13:45 V002 At Marina forms new service V002
+13:45 V002 New service at Marina from V002
+13:45 V002 Departs from Marina
+13:49 V001 Arrives at Halfway
+13:49 V002 Arrives at Halfway
+13:52 V002 Departs from Halfway
+13:53 V001 Departs from Halfway
+13:56 V002 Arrives at Aquarium
+13:57 V001 Arrives at Marina
+13:59 V001 Changes direction at Marina
+13:59 V001 At Marina forms new service V001
+13:59 V001 New service at Marina from V001
+13:59 V002 Changes direction at Aquarium
+13:59 V002 At Aquarium forms new service V002
+13:59 V002 New service at Aquarium from V002
+14:00 V001 Departs from Marina
+14:00 V002 Departs from Aquarium
+14:04 V001 Arrives at Halfway
+14:04 V002 Arrives at Halfway
+14:07 V001 Departs from Halfway
+14:08 V002 Departs from Halfway
+14:11 V001 Arrives at Aquarium
+14:12 V002 Arrives at Marina
+14:14 V001 Repeat shuttle service at Aquarium from  V001
+14:14 V001 Changes direction at Aquarium
+14:14 V001 At Aquarium forms new service  V001
+14:14 V002 Repeat shuttle service at Marina from  V002
+14:14 V002 Changes direction at Marina
+14:14 V002 At Marina forms new service  V002
+14:15 V001 Departs from Aquarium
+14:15 V002 Departs from Marina
+14:18 V002 Arrives at Halfway
+14:19 V001 Arrives at Halfway
+14:20 V002 Departs from Halfway
+14:23 V001 Departs from Halfway
+14:24 V002 Arrives at Aquarium
+14:24 V002 Changes direction at Aquarium
+14:27 V001 Arrives at Marina
+14:29 V001 Changes direction at Marina
+14:29 V001 At Marina forms new service V001
+14:29 V001 New service at Marina from V001
+14:29 V002 At Aquarium forms new service V002
+14:29 V002 New service at Aquarium from V002
+14:30 V001 Departs from Marina
+14:30 V002 Departs from Aquarium
+14:33 V002 Arrives at Halfway
+14:34 V001 Arrives at Halfway
+14:35 V002 Departs from Halfway
+14:37 V001 Departs from Halfway
+14:39 V002 Arrives at Marina
+14:41 V001 Arrives at Aquarium
+14:44 V001 Changes direction at Aquarium
+14:44 V001 At Aquarium forms new service V001
+14:44 V001 New service at Aquarium from V001
+14:44 V002 Changes direction at Marina
+14:45 V001 Departs from Aquarium
+14:45 V002 At Marina forms new service V002
+14:45 V002 New service at Marina from V002
+14:45 V002 Departs from Marina
+14:49 V001 Arrives at Halfway
+14:49 V002 Arrives at Halfway
+14:52 V002 Departs from Halfway
+14:53 V001 Departs from Halfway
+14:56 V002 Arrives at Aquarium
+14:57 V001 Arrives at Marina
+14:59 V001 Changes direction at Marina
+14:59 V001 At Marina forms new service V001
+14:59 V001 New service at Marina from V001
+14:59 V002 Changes direction at Aquarium
+14:59 V002 At Aquarium forms new service V002
+14:59 V002 New service at Aquarium from V002
+15:00 V001 Departs from Marina
+15:00 V002 Departs from Aquarium
+15:04 V001 Arrives at Halfway
+15:04 V002 Arrives at Halfway
+15:07 V001 Departs from Halfway
+15:08 V002 Departs from Halfway
+15:11 V001 Arrives at Aquarium
+15:12 V002 Arrives at Marina
+15:14 V001 Repeat shuttle service at Aquarium from  V001
+15:14 V001 Changes direction at Aquarium
+15:14 V001 At Aquarium forms new service  V001
+15:14 V002 Repeat shuttle service at Marina from  V002
+15:14 V002 Changes direction at Marina
+15:14 V002 At Marina forms new service  V002
+15:15 V001 Departs from Aquarium
+15:15 V002 Departs from Marina
+15:18 V002 Arrives at Halfway
+15:19 V001 Arrives at Halfway
+15:20 V002 Departs from Halfway
+15:23 V001 Departs from Halfway
+15:24 V002 Arrives at Aquarium
+15:24 V002 Changes direction at Aquarium
+15:27 V001 Arrives at Marina
+15:29 V001 Changes direction at Marina
+15:29 V001 At Marina forms new service V001
+15:29 V001 New service at Marina from V001
+15:29 V002 At Aquarium forms new service V002
+15:29 V002 New service at Aquarium from V002
+15:30 V001 Departs from Marina
+15:30 V002 Departs from Aquarium
+15:33 V002 Arrives at Halfway
+15:34 V001 Arrives at Halfway
+15:35 V002 Departs from Halfway
+15:37 V001 Departs from Halfway
+15:39 V002 Arrives at Marina
+15:41 V001 Arrives at Aquarium
+15:44 V001 Changes direction at Aquarium
+15:44 V001 At Aquarium forms new service V001
+15:44 V001 New service at Aquarium from V001
+15:44 V002 Changes direction at Marina
+15:45 V001 Departs from Aquarium
+15:45 V002 At Marina forms new service V002
+15:45 V002 New service at Marina from V002
+15:45 V002 Departs from Marina
+15:49 V001 Arrives at Halfway
+15:49 V002 Arrives at Halfway
+15:52 V002 Departs from Halfway
+15:53 V001 Departs from Halfway
+15:56 V002 Arrives at Aquarium
+15:57 V001 Arrives at Marina
+15:59 V001 Changes direction at Marina
+15:59 V001 At Marina forms new service V001
+15:59 V001 New service at Marina from V001
+15:59 V002 Changes direction at Aquarium
+15:59 V002 At Aquarium forms new service V002
+15:59 V002 New service at Aquarium from V002
+16:00 V001 Departs from Marina
+16:00 V002 Departs from Aquarium
+16:04 V001 Arrives at Halfway
+16:04 V002 Arrives at Halfway
+16:07 V001 Departs from Halfway
+16:08 V002 Departs from Halfway
+16:11 V001 Arrives at Aquarium
+16:12 V002 Arrives at Marina
+16:14 V001 Changes direction at Aquarium
+16:14 V001 At Aquarium forms new service V001
+16:14 V001 New service at Aquarium from V001
+16:14 V002 Changes direction at Marina
+16:14 V002 At Marina forms new service V002
+16:14 V002 New service at Marina from V002
+16:15 V001 Departs from Aquarium
+16:15 V002 Departs from Marina
+16:19 V001 Arrives at Halfway
+16:19 V002 Arrives at Halfway
+16:22 V002 Departs from Halfway
+16:23 V001 Departs from Halfway
+16:26 V002 Arrives at Aquarium
+16:27 V001 Arrives at Marina
+16:29 V001 Changes direction at Marina
+16:29 V001 At Marina forms new service V001
+16:29 V001 New service at Marina from V001
+16:29 V002 Changes direction at Aquarium
+16:29 V002 At Aquarium forms new service V002
+16:29 V002 New service at Aquarium from V002
+16:30 V001 Departs from Marina
+16:30 V002 Departs from Aquarium
+16:34 V001 Arrives at Halfway
+16:34 V002 Arrives at Halfway
+16:37 V001 Departs from Halfway
+16:37 V002 Departs from Halfway
+16:41 V001 Arrives at Aquarium
+16:41 V002 Arrives at Marina
+16:44 V001 Changes direction at Aquarium
+16:44 V001 At Aquarium forms new service V001
+16:44 V001 New service at Aquarium from V001
+16:44 V002 Changes direction at Marina
+16:44 V002 At Marina forms new service V002
+16:44 V002 New service at Marina from V002
+16:45 V001 Departs from Aquarium
+16:45 V002 Departs from Marina
+16:48 V002 Arrives at Halfway
+16:49 V001 Arrives at Halfway
+16:51 V002 Departs from Halfway
+16:53 V001 Departs from Halfway
+16:55 V002 Arrives at Aquarium
+16:57 V001 Arrives at Marina
+16:58 V002 Changes direction at Aquarium
+16:59 V001 Changes direction at Marina
+16:59 V001 At Marina forms new service V001
+16:59 V001 New service at Marina from V001
+16:59 V002 At Aquarium forms new service V002
+16:59 V002 New service at Aquarium from V002
+17:00 V001 Departs from Marina
+17:00 V002 Departs from Aquarium
+17:04 V001 Arrives at Halfway
+17:04 V002 Arrives at Halfway
+17:09 V001 Changes direction at Halfway
+17:09 V002 Departs from Halfway
+17:10 V001 Departs from Halfway
+17:10 V002 Arrives at Sidings
+17:10 V002 Terminates at Sidings
+17:11 V001 Arrives at Shed
+17:11 V001 Terminates at Shed
