@@ -1,0 +1,15 @@
+rly_file = "Volks_Electric_Railway.rly"
+ttb_files = [ "Volks_Electric_Railway.ttb",]
+img_files = [ "Volks_Electric_Railway.bmp", "Volks_Electric_Railway_pref_dir.bmp",]
+doc_files = [ "README.md", "Volks_Timetable_Detailed.xlsx", "Volks_Movement_Schedule.txt", "Volks_Timetable.xlsx",]
+release_date = "2026-07-16"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+year = 2026
+display_name = "Volks Electric Railway"
+name = "Volks Electric Railway"
+signal_position = "left"
+author = "Kristian Zarębski"
+contributors = []
